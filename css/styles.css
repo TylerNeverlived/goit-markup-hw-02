@@ -32,6 +32,7 @@ a {
 }
 
 .header-link-logo {
+  color: #2e2f42;
   font-family: 'Raleway', sans-serif;
   font-size: 18px;
   font-weight: 700;
@@ -50,6 +51,7 @@ a {
 .navigation-list-item {
 }
 .navigation-list-link {
+  color: #2e2f42;
   font-size: 16px;
   font-weight: 500;
   line-height: 1.5; /* 150% */
